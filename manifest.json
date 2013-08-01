@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "test",
-  "description": "A test to run something in the background",
+  "name": "remove-bars",
+  "description": "Remove annoying elements from a page",
   "version": "1.0",
   "content_scripts": [
     {
